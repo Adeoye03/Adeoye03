@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, Python, and machine learning.
 - 📫 How to reach me: [omoadoni.adeoye03@gmail.com](mailto:omoadoni.adeoye03@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- ⚡ Fun fact: I love reading novels.
 
 ## 🛠️ Technologies & Tools
 
