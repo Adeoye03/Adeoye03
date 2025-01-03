@@ -2,7 +2,7 @@
 # Hi there, I'm Adeoye Precious 👋
 
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on creating impactful and efficient solutions. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate data analyst with a focus on making sense out of data. Here's a bit about me:
 
 ## 🧑‍💻 About Me
 
