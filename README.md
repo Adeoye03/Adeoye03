@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a focus on maki
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ## 📈 GitHub Stats
 
 ![Adeoye03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeoye03&show_icons=true&theme=radical)
