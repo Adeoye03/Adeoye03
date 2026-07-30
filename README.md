@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a focus on maki
 - 💬 Ask me about web development, Python, and machine learning.
 - 📫 How to reach me: [omoadoni.adeoye03@gmail.com](mailto:omoadoni.adeoye03@gmail.com)
 - ⚡ Fun fact: I love reading novels.
-- 📫 portfolio: https://www.datacamp.com/portfolio/omoadoniadeoye03
+- 📫 portfolio: https://omoadoniportfolio.netlify.app/
 
 ## 🛠️ Technologies & Tools
 
